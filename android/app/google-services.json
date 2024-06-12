@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212589064705",
+    "project_id": "im-done-with",
+    "storage_bucket": "im-done-with.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212589064705:android:1f323ddc150f665919c600",
+        "android_client_info": {
+          "package_name": "com.example.im_done_with"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHlF0b2h2uHH9mIQbqCEQhfQRiuu3BCLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
